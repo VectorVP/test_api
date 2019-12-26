@@ -1,4 +1,4 @@
-<h1>Only for gist and testing REST API, updates coming soon</h1>
+<h1>Only for gist and testing REST API, updates are coming soon</h1>
 
 pip install -r requirements.txt
 
